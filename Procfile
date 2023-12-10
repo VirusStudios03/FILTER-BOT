@@ -1,5 +1,4 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @VIRUS_BOTZ
+# Ask Doubt on telegram https://t.me/VIRUS_BOTZ_SUPPORT_GROUP
 
 web: python3 bot.py
