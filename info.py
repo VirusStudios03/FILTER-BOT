@@ -32,7 +32,7 @@ API_ID = int(environ.get('API_ID', '22549633'))
 
 API_HASH = environ.get('API_HASH', '34d8c9887fe445c1dac2228cbdf9ab48')
 
-BOT_TOKEN = environ.get('BOT_TOKEN', "6670082902:AAGO-1gTnz8249XgGDkLqcUb974ayUQIrdE")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6962645507:AAHBLpY8swh48mJ13zipis9dBLBPdvMRc6k")
 
 
 
@@ -66,7 +66,7 @@ AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
 
-auth_channel = environ.get('AUTH_CHANNEL', '-1001402115130')
+auth_channel = environ.get('AUTH_CHANNEL', '-1001402115130 -1002130897498')
 
 auth_grp = environ.get('AUTH_GROUP', '-1001858969618')
 
